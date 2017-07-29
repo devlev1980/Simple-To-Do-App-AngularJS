@@ -1,0 +1,70 @@
+ body {}
+ 
+ .done {
+     text-decoration: line-through;
+     color: white;
+ }
+ 
+ ol li {
+     /* color: red; */
+     /* list-style: none; */
+     font-size: 20px;
+     letter-spacing: 3px;
+ }
+ 
+ input {
+     font-size: 20px;
+     outline: none;
+     margin: 10px 10px;
+     -webkit-box-shadow: -1px -2px 5px 0px rgba(0, 0, 0, 0.65);
+     -moz-box-shadow: -1px -1px 5px 0px rgba(0, 0, 0, 0.65);
+     box-shadow: -1px -1px 5px 0px rgba(0, 0, 0, 0.65);
+ }
+ 
+ .btnAdd {
+     font-size: 20px;
+     background-color: #5E7CE2;
+     color: white;
+     border-radius: 5px;
+     outline: none;
+     border: 2px solid white;
+     -webkit-box-shadow: -1px -2px 5px 0px rgba(0, 0, 0, 0.65);
+     -moz-box-shadow: -1px -1px 5px 0px rgba(0, 0, 0, 0.65);
+     box-shadow: -4px -1px 5px 0px rgba(0, 0, 0, 0.65);
+ }
+ 
+ .btnComplete {
+     font-size: 20px;
+     background-color: #5E7CE2;
+     color: white;
+     border-radius: 5px;
+     outline: none;
+     margin-bottom: 50px;
+     border: 2px solid white;
+     margin-left: 10px;
+     -webkit-box-shadow: -1px -2px 5px 0px rgba(0, 0, 0, 0.65);
+     -moz-box-shadow: -1px -1px 5px 0px rgba(0, 0, 0, 0.65);
+     box-shadow: -4px -1px 5px 0px rgba(0, 0, 0, 0.65);
+ }
+ 
+ .Tasks {
+     width: 600px;
+     height: 500px;
+     border: 1px solid black;
+     background-color: #5E7CE2;
+     border-radius: 5px;
+     -webkit-box-shadow: -4px -2px 11px 0px rgba(0, 0, 0, 0.75);
+     -moz-box-shadow: -4px -2px 11px 0px rgba(0, 0, 0, 0.75);
+     box-shadow: -4px -2px 11px 0px rgba(0, 0, 0, 0.75);
+ }
+ 
+ .container {
+     background-color: #5E7CE2;
+     width: 600px;
+     height: 100px;
+     color: white;
+     border-radius: 5px;
+     -webkit-box-shadow: -4px -2px 11px 0px rgba(0, 0, 0, 0.75);
+     -moz-box-shadow: -4px -2px 11px 0px rgba(0, 0, 0, 0.75);
+     box-shadow: -4px -2px 11px 0px rgba(0, 0, 0, 0.75);
+ }
